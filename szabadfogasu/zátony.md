@@ -1,4 +1,4 @@
-"Zátonyra van ítélve" 
+	"Zátonyra van ítélve" 
 
 
 Parts:
