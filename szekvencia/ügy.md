@@ -29,3 +29,5 @@ nyert ügye van - has a winning case / things have taken a favorable turn for hi
 
 becsületbeli ügy - matter of pride
 
+ügymenet - the established order in which business is conducted in an office, company, or organization; case management and case administration together; case management.
+
