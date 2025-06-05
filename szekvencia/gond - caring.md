@@ -6,6 +6,7 @@ gondos - caring, having standards
 gondatlan - careless  
 gondtalan - problem-less, living without problems  
 gondnok - caretaker (usually in houses or real estate)
+gondoskodik - takes care of
 
 
 
