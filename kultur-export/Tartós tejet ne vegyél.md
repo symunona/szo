@@ -1,0 +1,1 @@
+... mert a halál hamar elér.
