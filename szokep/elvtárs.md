@@ -8,3 +8,5 @@ elv - principle, tenet
 társ - partner, buddy
 
 elv-társ - tenet-buddy, principle-partner
+
+sors-társ

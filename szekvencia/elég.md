@@ -1,0 +1,4 @@
+elég
+elégít
+
+önkielégít

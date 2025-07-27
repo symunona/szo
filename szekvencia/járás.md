@@ -1,0 +1,3 @@
+Nyelvjárás
+Időjárás
+Járás
